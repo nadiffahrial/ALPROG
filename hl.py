@@ -7,3 +7,4 @@ elif i>85:
     print("ANDA BELUM LULUS")
 elif i<85:
     print("KOCAKKKK")
+    
